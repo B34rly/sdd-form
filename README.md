@@ -1,3 +1,7 @@
+# What
+This is a small program I made as an SDD class project. It was meant to be in VB.NET but nuhuh. 
+Played around with it to learn how to use Rust/Svelte/Tauri. Very rough, i think some integrations could between the 3 could be done much smoother. But I'll see what works best as I go (and as it gets documented better)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
